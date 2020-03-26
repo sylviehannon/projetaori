@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Bienvenue sur ma page d'accueil !
+C'est actuellement très vide, oui, mais promis ça va bientôt changer.
 
 You can use the [editor on GitHub](https://github.com/sylviehannon/projetaori/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
