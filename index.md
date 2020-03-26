@@ -1,28 +1,16 @@
 ## Bienvenue sur ma page d'accueil !
+
 C'est actuellement très vide, oui, mais promis ça va bientôt changer.
 
-You can use the [editor on GitHub](https://github.com/sylviehannon/projetaori/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Allez zou, on va faire semblant de débuter, donc voici un [sublime lien](https://breathe.forumsrpg.com/h2-cours-bbcode-debutants) vers mon tutoriel de BBcode pour les débutants.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dedans tu trouveras :
+- Les codes en un mot
+- Les codes à fonctions
+- La fusioooooon
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**Clair**, _limpide_ et codé avec soin.
+Bisous.
 
 [Link](url) and ![Image](src)
 ```
