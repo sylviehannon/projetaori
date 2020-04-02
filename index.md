@@ -2,7 +2,7 @@
 
 C'est actuellement très vide, oui, mais promis ça va bientôt changer.
 
-Allez zou, on va faire semblant de débuter, donc voici un [sublime lien](https://breathe.forumsrpg.com/h2-cours-bbcode-debutants) vers mon tutoriel de BBcode pour les débutants.
+Allez zou, j'ai pas d'idée de ce que je peux mettre ici en attendant, donc voici un [sublime lien](https://breathe.forumsrpg.com/h2-cours-bbcode-debutants) vers mon tutoriel de BBcode pour les débutants.
 
 Dedans tu trouveras :
 - Les codes en un mot
