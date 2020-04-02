@@ -28,5 +28,5 @@ Quelques liens pour avoir un rapide aperçu du sujet :
 - [Wikipédia](https://fr.wikipedia.org/wiki/Communication_en_champ_proche)
 - [Article Echos du Net](https://www.echosdunet.net/dossiers/technologie-nfc)
 
-![Image](images/nfc-reader.jpg)
+![center](images/nfc-reader.jpg)
 
