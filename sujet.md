@@ -12,7 +12,7 @@ Quelques liens pour avoir un rapide aperçu du sujet :
 - [Wikipédia](https://fr.wikipedia.org/wiki/Chatbot)
 - [Kabane ; les chatbots : de la création à l'application](https://www.kabane.ca/chatbots-de-creation-a-lapplication), qui offre un bon aperçu des différents chatbots qu'on croise régulièrement, les pour et les contre de l'utilsiation d'un bot, etc.
 
-## Machine leraning, ou apprentissage automatique
+## Machine learning, ou apprentissage automatique
 
 **Pourquoi en parler ?** Cela rejoint un peu mon premier sujet, dans un spectre un peu plus large. Le _machine learning* c'esttout simplement la capacitée donnée à un ordinateur de pouvoir "apprendre" sur base des donénes qui lui sont fournies.
 
@@ -28,5 +28,5 @@ Quelques liens pour avoir un rapide aperçu du sujet :
 - [Wikipédia](https://fr.wikipedia.org/wiki/Communication_en_champ_proche)
 - [Article Echos du Net](https://www.echosdunet.net/dossiers/technologie-nfc)
 
-![center](images/nfc-reader.jpg)
+![Image](images/nfc-reader.jpg)
 
