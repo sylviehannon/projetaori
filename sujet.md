@@ -3,9 +3,9 @@ Voici un rapide aperçu, par ordre d'intérêt, des sujets que je souhaiterais t
 
 ## Les chatbots
 
-**Pourquoi en parler ?** Parce que c'est une technologie mêlants IA, algorithmes et linguistique, et en tant qu'ancienne étudiante linguiste le sujet m'intéresse énormément je suis curieuse de voir comment un ordinateurn peut analyser des réponses fournies par un humain pour formuler ses propres questions/réponses.
+**Pourquoi en parler ?** Parce que c'est une technologie mêlants IA, algorithmes et linguistique, et en tant qu'ancienne étudiante linguiste le sujet m'intéresse énormément je suis curieuse de voir comment un ordinateur peut analyser des réponses fournies par un humain pour formuler ses propres questions/réponses.
 
-Actuellement, on croise souvent des chatbots, que ce soit en ligne (ces horribles petites bulles de discussion qui s'ouvrent automatiquement quand on surfe sur des e-shop et réapparaissent continuellement... pire que des vendeurs en magasin, parfois.
+Actuellement, on croise souvent des chatbots, que ce soit en ligne (ces horribles petites bulles de discussion qui s'ouvrent automatiquement quand on surfe sur des e-shop et réapparaissent continuellement... pire que des vendeurs en magasin, parfois).
 
 
 Quelques liens pour avoir un rapide aperçu du sujet :
@@ -28,4 +28,5 @@ Quelques liens pour avoir un rapide aperçu du sujet :
 - [Wikipédia](https://fr.wikipedia.org/wiki/Communication_en_champ_proche)
 - [Article Echos du Net](https://www.echosdunet.net/dossiers/technologie-nfc)
 
+![Image](images/nfc-reader.jpg)
 
