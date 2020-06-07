@@ -14,7 +14,7 @@ Quelques liens pour avoir un rapide aperçu du sujet :
 
 ## Machine learning, ou apprentissage automatique
 
-**Pourquoi en parler ?** Cela rejoint un peu mon premier sujet, dans un spectre un peu plus large. Le _machine learning* c'est tout simplement la capacitée donnée à un ordinateur de pouvoir "apprendre" sur base des donénes qui lui sont fournies.
+**Pourquoi en parler ?** Cela rejoint un peu mon premier sujet, dans un spectre un peu plus large. Le *machine learning* c'est tout simplement la capacitée donnée à un ordinateur de pouvoir "apprendre" sur base des donénes qui lui sont fournies.
 
 Quelques liens pour avoir un rapide aperçu du sujet :
 - [Wikipédia](https://fr.wikipedia.org/wiki/Apprentissage_automatique)
